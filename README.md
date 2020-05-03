@@ -4,11 +4,7 @@
 
 ![logo](simple-logo.svg)
 
-<<<<<<< HEAD
-## Reader (Android only)
-=======
 ## 論壇主體
->>>>>>> 84ca46a769ce6bf27c512def7eeede59422953a6
 
 以 [MIT License](LICENSE) 發行程式原始碼
 
