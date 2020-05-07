@@ -1,43 +1,19 @@
 {
-    "name": "flarum/flarum",
-    "description": "Delightfully simple forum software.",
+    "name": "starinc/kater",
+    "description": "The popular forum from Taiwan.",
     "type": "project",
     "keywords": [
         "forum",
         "discussion"
     ],
-    "homepage": "https://flarum.org/",
-    "license": "MIT",
+    "homepage": "https://kater.me/",
+    "license": "Star Inc. EULA (https://startw.cf/tw/laws.php)",
     "authors": [
         {
-            "name": "Franz Liedke",
-            "email": "franz@develophp.org"
-        },
-        {
-            "name": "Daniel Klabbers",
-            "email": "daniel@klabbers.email",
-            "homepage": "https://luceos.com"
-        },
-        {
-            "name": "David Sevilla Martin",
-            "email": "me+flarum@datitisev.me",
-            "homepage": "https://datitisev.me"
-        },
-        {
-            "name": "Clark Winkelmann",
-            "email": "clark.winkelmann@gmail.com",
-            "homepage": "https://clarkwinkelmann.com"
-        },
-        {
-            "name": "Matthew Kilgore",
-            "email": "matthew@kilgore.dev"
+            "name": "SuperSonic",
+            "email": "supersonic@livemail.tw"
         }
     ],
-    "support": {
-        "issues": "https://github.com/flarum/core/issues",
-        "source": "https://github.com/flarum/flarum",
-        "docs": "https://flarum.org/docs/"
-    },
     "require": {
         "flarum/core": "^0.1.0",
         "flarum/approval": "^0.1.0",
