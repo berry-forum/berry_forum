@@ -14,10 +14,16 @@
             "email": "supersonic@livemail.tw"
         }
     ],
-    "repositories": [{
+    "repositories": [
+        {
             "type": "vcs",
             "url": "https://github.com/star-inc/kater_core.git"
-    }],
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/star-inc/kater_forum.git"
+        }
+    ],
     "require": {
         "starinc/kater_core": "dev-master",
         "flarum/approval": "^0.1.0",
