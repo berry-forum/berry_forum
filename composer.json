@@ -17,11 +17,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/star-inc/kater_core.git"
+            "url": "https://gitlab.com/star-inc/kater_core.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/star-inc/kater_forum.git"
+            "url": "https://gitlab.com/star-inc/kater_forum.git"
         }
     ],
     "require": {
