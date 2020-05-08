@@ -1,4 +1,6 @@
 *
+!fonts
+!fonts/*
 !avatars
 !.gitignore
 !simple-logo*
