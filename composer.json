@@ -22,11 +22,15 @@
         {
             "type": "vcs",
             "url": "https://gitlab.com/star-inc/kater_forum.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/star-inc/kater_zh-TW.git"
         }
     ],
     "require": {
         "starinc/kater_core": "dev-master",
-        "csineneo/lang-traditional-chinese": "^0.1.0",
+        "starinc/kater_zhtw": "dev-master",
         "flagrow/ads": "^0.2.4",
         "flagrow/flarum-ext-analytics": "^0.8.0",
         "flarum/approval": "^0.1.0",
