@@ -79,7 +79,7 @@
         "fof/socialprofile": "^0.1.1",
         "fof/terms": "==0.4.3",
         "fof/username-request": "^0.2.0",
-        "fof/nightmode": "==0.4.0",
+        "fof/nightmode": "==0.6.0",
         "matteocontrini/flarum-imgur-upload": "<3.4",
         "michaelbelgium/flarum-discussion-views": "==v4.0.2",
         "nikovonlas/flarum-ext-web-push": "^0.1.0@beta",
