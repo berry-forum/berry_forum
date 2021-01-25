@@ -17,10 +17,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/social-service/nex/nex_core.git"
-        },
-        {
-            "type": "vcs",
             "url": "https://gitlab.com/star-inc/social-service/nex/nex_forum.git"
         },
         {
@@ -57,6 +53,7 @@
         "flarum/auth-github": "^0.1.0",
         "flarum/auth-twitter": "^0.1.0",
         "flarum/bbcode": "^v0.1.0-beta.12",
+        "flarum/core": "==v0.1.0-beta.13",
         "flarum/emoji": "<v0.1.0-beta.14",
         "flarum/flags": "<v0.1.0-beta.14",
         "flarum/lang-english": "<v0.1.0-beta.14",
@@ -89,7 +86,6 @@
         "nikovonlas/flarum-ext-web-push": "^0.1.0@beta",
         "noriods/auto-more": "^0.3.0",
         "starinc/nex_comment-tree": "dev-master",
-        "starinc/nex_core": "dev-master",
         "starinc/nex_elevator": "dev-master",
         "starinc/nex_mentions": "dev-master",
         "starinc/nex_votes": "dev-master",
