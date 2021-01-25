@@ -17,46 +17,46 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_core.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_core.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_forum.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_forum.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_zh-TW.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_zh-TW.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_plugin-mentions.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_plugin-mentions.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_plugin-elevator.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_plugin-elevator.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_plugin-votes.git"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_plugin-votes.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/star-inc/nex/nex_plugin-basic"
+            "url": "https://gitlab.com/star-inc/social-service/nex/nex_plugin-comment-tree"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/supersonictw/socialprofile.git",
+            "no-api": true
         }
     ],
     "require": {
-        "starinc/nex_core": "dev-master",
-        "starinc/nex_zhtw": "dev-master",
-        "starinc/nex_elevator": "dev-master",
-        "starinc/nex_mentions": "dev-master",
-        "starinc/nex_votes": "dev-master",
-        "starinc/nex_basic": "dev-master",
+        "askvortsov/flarum-pwa": "<v1.1.0",
         "flagrow/ads": "^0.2.4",
+        "flarum/approval": "<v0.1.0-beta.14",
         "flarum/auth-facebook": "^0.1.0",
         "flarum/auth-github": "^0.1.0",
         "flarum/auth-twitter": "^0.1.0",
         "flarum/bbcode": "^v0.1.0-beta.12",
-        "flarum/approval": "<v0.1.0-beta.14",
         "flarum/emoji": "<v0.1.0-beta.14",
         "flarum/flags": "<v0.1.0-beta.14",
         "flarum/lang-english": "<v0.1.0-beta.14",
@@ -69,24 +69,33 @@
         "flarum/subscriptions": "<v0.1.0-beta.14",
         "flarum/suspend": "<v0.1.0-beta.14",
         "flarum/tags": "<v0.1.0-beta.14",
-        "fof/byobu": "==0.5.6",
         "fof/analytics": "==0.9.1",
-        "fof/ignore-users": "==0.1.7",
+        "fof/byobu": "==0.5.6",
         "fof/formatting": "^0.1.2",
         "fof/gamification": "^0.1.9",
+        "fof/ignore-users": "==0.1.7",
+        "fof/nightmode": "==0.6.0",
+        "fof/passport" : "==0.3.0",
         "fof/profile-image-crop": "^0.1.1",
         "fof/recaptcha": "^0.1.1",
-        "fof/socialprofile": "^0.1.1",
+        "fof/sitemap": "==0.5.0",
+        "fof/socialprofile": "dev-master",
         "fof/terms": "==0.4.3",
+        "fof/user-bio": "=0.2.0",
         "fof/username-request": "^0.2.0",
-        "fof/nightmode": "==0.6.0",
+        "maicol07/flarum-ext-sso": "==1.6",
         "matteocontrini/flarum-imgur-upload": "<3.4",
         "michaelbelgium/flarum-discussion-views": "==v4.0.2",
         "nikovonlas/flarum-ext-web-push": "^0.1.0@beta",
         "noriods/auto-more": "^0.3.0",
-        "v17development/flarum-seo": "<1.4",
-        "kyrne/shout": "<0.2.4",
-        "sycho/flarum-profile-cover": "<v1.2.0"
+        "starinc/nex_comment-tree": "dev-master",
+        "starinc/nex_core": "dev-master",
+        "starinc/nex_elevator": "dev-master",
+        "starinc/nex_mentions": "dev-master",
+        "starinc/nex_votes": "dev-master",
+        "starinc/nex_zhtw": "dev-master",
+        "sycho/flarum-profile-cover": "<v1.2.0",
+        "v17development/flarum-seo": "<1.4"
     },
     "config": {
         "sort-packages": true
