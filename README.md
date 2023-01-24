@@ -1,38 +1,40 @@
-# Nex
+<p align="center">
+<a href="https://flarum.org/"><img src="https://flarum.org/assets/img/logo.png"></a>
+</p>
 
-全方位的『超』自由論壇
-> 為壓力大想找人抒發，或者心中有小宇宙想找人分享的你
->
-> 提供最棒的多元交流平台
+<p align="center">
+<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/flarum/core"><img src="https://poser.pugx.org/flarum/core/license.svg" alt="License"></a>
+</p>
 
-![logo](public/assets/simple-logo.svg)
+## About Flarum
 
-## 論壇主體
+**[Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.** It's fast and easy to use, with all the features you need to run a successful community. It is designed to be:
 
-以 [MIT License](LICENSE) 發行程式原始碼
+* **Fast and simple.** No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it’s quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
 
-    The MIT License (MIT)
+* **Beautiful and responsive.** This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box.
 
-    Copyright (c) 2020-2021 Star Inc. (https://starinc.xyz)
-    Copyright (c) 2019-2020 Stichting Flarum (Flarum Foundation)
-    Copyright (c) 2014-2019 Toby Zerner (toby.zerner@gmail.com)
+* **Powerful and extensible.** Customize, extend, and integrate Flarum to suit your community. Flarum’s architecture is amazingly flexible, with a powerful Extension API.
 
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
+![screenshot](https://flarum.org/assets/img/home-screenshot.png)
 
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
+## Installation
 
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+Read the **[Installation guide](https://docs.flarum.org/install)** to get started. For support, refer to the [documentation](https://docs.flarum.org/), and ask questions on the [community forum](https://discuss.flarum.org/) or [Discord chat](https://flarum.org/discord/).
 
-> (c) 2020 [Star Inc.](https://starinc.xyz) with [Kater Team](https://kater.me).
+## Contributing
+
+Thank you for considering contributing to Flarum! Please read the **[Contributing guide](https://docs.flarum.org/contributing)** to learn how you can help.
+
+This repository only holds the Flarum skeleton application. Most development happens in [flarum/core](https://github.com/flarum/core).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Flarum, please follow our [security policy](https://github.com/flarum/core/security/policy) so we can address it promptly.
+
+## License
+
+Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
+
