@@ -21,7 +21,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugins/berry_locale-zh_TW.git"
+            "url": "https://gitlab.com/berry-forum/locales/berry_locale-zh_TW.git"
         },
         {
             "type": "vcs",
