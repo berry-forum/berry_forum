@@ -21,23 +21,23 @@
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugin/berry_zh-TW.git"
+            "url": "https://gitlab.com/berry-forum/plugins/berry_locale-zh_TW.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugin/berry_plugin-mentions.git"
+            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-mentions.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugin/berry_plugin-elevator.git"
+            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-elevator.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugin/berry_plugin-votes.git"
+            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-votes.git"
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugin/berry_plugin-comment-tree"
+            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-comment-tree"
         }
     ],
     "require": {
