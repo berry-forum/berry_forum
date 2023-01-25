@@ -34,10 +34,6 @@
         {
             "type": "vcs",
             "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-votes.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-comment-tree"
         }
     ],
     "require": {
