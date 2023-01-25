@@ -25,10 +25,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-mentions.git"
-        },
-        {
-            "type": "vcs",
             "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-elevator.git"
         },
         {
