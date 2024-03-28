@@ -17,19 +17,23 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/berry_forum.git"
+            "url": "https://github.com/berry-forum/berry_forum.git",
+            "no-api": true
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/locales/berry_locale-zh_TW.git"
+            "url": "https://github.com/berry-forum/berry_locale-zh_tw.git",
+            "no-api": true
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-elevator.git"
+            "url": "https://github.com/berry-forum/berry_plugin-elevator.git",
+            "no-api": true
         },
         {
             "type": "vcs",
-            "url": "https://gitlab.com/berry-forum/plugins/berry_plugin-votes.git"
+            "url": "https://github.com/berry-forum/berry_plugin-votes.git",
+            "no-api": true
         }
     ],
     "require": {
